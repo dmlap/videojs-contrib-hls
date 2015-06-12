@@ -1,3 +1,4 @@
+Don't actually add this to the project, I'm messing around.
 # video.js HLS Tech
 
 A video.js tech that plays HLS video on platforms that don't support it but have Flash.
